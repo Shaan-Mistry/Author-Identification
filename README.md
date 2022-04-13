@@ -1,4 +1,4 @@
-# Assignment 7: Author Identification
+# Author Identification
 
 ## Short Description
 
